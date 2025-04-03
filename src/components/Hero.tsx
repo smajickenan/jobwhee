@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div className="w-[90vw] relative mx-auto rounded-3xl overflow-hidden">
+    <div className="w-[80vw] relative mx-auto rounded-3xl overflow-hidden">
       {/* Image section */}
       <div className="relative h-[45vh] md:h-[85vh]">
         <Image

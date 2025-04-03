@@ -2,7 +2,7 @@ import { ChevronDown, Menu } from 'lucide-react'
 
 const Navbar = () => {
   return (
-    <div className="w-[90vw] bg-black px-4 md:px-6 py-3 flex items-center justify-between mx-auto rounded-full my-4">
+    <div className="w-[80vw] bg-black px-4 md:px-6 py-3 flex items-center justify-between mx-auto rounded-full my-4">
       {/* Logo */}
       <div className="text-white text-xl md:text-2xl font-bold">
         <span className="text-white">J</span>

@@ -8,6 +8,11 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      screens: {
+        'xl1920': '1920px',
+        'xl1440': '1440px',
+        'xl860': '860px'
+      },
       colors: {
         primary: "#86D300",
         secondary: "#333333",
